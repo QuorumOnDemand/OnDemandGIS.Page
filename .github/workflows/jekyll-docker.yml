@@ -16,6 +16,10 @@ jobs:
       run: |
         git config --global --unset-all http.https://github.com/.extraheader || true
         git config --global --unset-all core.sshCommand || true
+    - name: Check Docker version
+      run: docker --version
+    - name: Pull latest Jekyll builder image
+      run: docker pull jekyll/builder:latest
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
