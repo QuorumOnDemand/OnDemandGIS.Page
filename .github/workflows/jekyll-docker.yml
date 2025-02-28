@@ -8,11 +8,14 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v4
+    - name: Configure Git
+      run: |
+        git config --global --unset-all http.https://github.com/.extraheader || true
+        git config --global --unset-all core.sshCommand || true
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
