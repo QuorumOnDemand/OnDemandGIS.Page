@@ -3,5 +3,5 @@ title: Quorum On Demand GIS Add-In
 description: Download On Demand GIS Tool for ArcGIS Pro 3.3 or later.
 sass:
   style: compressed
-  load_path
+  load_paths:
     - assets/css
