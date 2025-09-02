@@ -22,6 +22,4 @@ title: Download On Demand GIS Add-In Tool
 
 ## About
 
-The Quorum On Demand GIS Add-In provides advanced GIS tools for ArcGIS Pro 3.3 and later. Download the latest version above and follow the installation instructions provided in the documentation.
-
-If you have questions or need support, please contact <a href="mailto:support@ondemandquorum.com">support@ondemandquorum.com</a>.
+The Quorum On Demand GIS Add-In provides advanced GIS tools for ArcGIS Pro 3.3 and later. Download the latest version above.
