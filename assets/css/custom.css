@@ -1,0 +1,4 @@
+/* Hide the View on GitHub button in Cayman theme */
+.btn-github {
+  display: none !important;
+}
