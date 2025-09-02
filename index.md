@@ -8,7 +8,6 @@ title: Download On Demand GIS Add-In Tool
 		<img src="{{ site.baseurl }}/assets/images/ondemand-logo.png" alt="On Demand Logo" width="220" />
 </p>
 
-# Quorum On Demand GIS Add-In
 
 <p align="center">
 	<strong>Download the latest release for ArcGIS Pro 3.3 or later</strong>
