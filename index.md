@@ -5,7 +5,7 @@ title: Download On Demand GIS Add-In Tool
 
 
 <p align="center">
-	<img src="/assets/images/ondemand-logo.png" alt="On Demand Logo" width="220" />
+		<img src="{{ site.baseurl }}/assets/images/ondemand-logo.png" alt="On Demand Logo" width="220" />
 </p>
 
 # Quorum On Demand GIS Add-In
