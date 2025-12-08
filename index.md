@@ -3,8 +3,8 @@ layout: default
 title: Download On Demand GIS Add-In Tool
 ---
 
-{% assign prod_version = site.data.version_production.latest %}
-{% assign test_version = site.data.version_test.latest %}
+{% assign prod_version = site.data.version_Production.latest %}
+{% assign test_version = site.data.version_Test.latest %}
 {% assign vprod = 'v' | append: prod_version %}
 {% assign vtest = 'v' | append: test_version %}
 
